@@ -1,8 +1,8 @@
 Turlia
 ======
-mkdir ~/Hello-World
+$ mkdir ~/Hello-World
 
-cd ~/Hello-World
+$ cd ~/Hello-World
 
 
 Real Estate Site
